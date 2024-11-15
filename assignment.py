@@ -8,3 +8,9 @@ Sample output:
 Hello World!
 
 """
+
+print("\"Hello World!\"")
+print( )
+print("\"\"\"")
+print( )
+print('The Sky Is Blue Oh Finally Been Dreamin\' of this for a while \nThe Sun Is Shining I Been Swimming In This Place A Mile')
